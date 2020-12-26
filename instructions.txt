@@ -1,0 +1,7 @@
+Perform the followling instructions: 
+$ sudo su 
+# sudo apt install fonts-powerline 
+# nano /root/.bashrc
+(Paste the script below # alias mv = 'mv -i')
+# exit 
+( Clear and reload the Terminal) 

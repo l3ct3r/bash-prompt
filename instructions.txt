@@ -12,3 +12,5 @@ $ sudo su
 (Place neofetch on top of .bashrc)
 # exit 
 ( Clear and reload the Terminal) 
+
+(Font's is called powerline-fonts in arch repos)

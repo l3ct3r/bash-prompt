@@ -6,7 +6,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Built with](#built-with)
-* [Setup](#project-setup)
+* [Requirements Setup](#project-setup)
 
 ## General info
 This is simple script for bash.
@@ -15,7 +15,7 @@ This is simple script for bash.
 This is created with:
 * shell script 
 
-## Setup
+## Requirements Setup
 Perform the followling instructions:
 
 ```

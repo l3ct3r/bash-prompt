@@ -7,7 +7,6 @@
 * [General info](#general-info)
 * [Built with](#built-with)
 * [Setup](#project-setup)
-* [Screenshots](#project-sscreenshots)
 
 ## General info
 This is simple script for bash.

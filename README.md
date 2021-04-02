@@ -14,6 +14,13 @@ This is simple script for bash.
 This is created with:
 * shell script 
 
+## Supported Terminal 
+* GNOME Terminal 
+* XFCE4-Terminal 
+* MATE Terminal 
+* Konsole 
+* Terminator
+
 ## Setup
 Perform the followling instructions:
 

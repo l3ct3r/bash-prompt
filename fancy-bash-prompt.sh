@@ -4,7 +4,7 @@
 ##	|                                                                       |
 ##	|                            FANCY BASH PROMT                           |
 ##	|                                                                       |
-##	| Copyright (c) 2020, Durbasa <durbasa.me@gmail.com>.          |
+##	| Copyright (c) 2020, 3ncrypt3db0t <3ncrypt3db0t.me@gmail.com>.          |
 ##	|                                                                       |
 ##	| This program is free software: you can redistribute it and/or modify  |
 ##	| it under the terms of the GNU General Public License as published by  |
